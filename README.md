@@ -10,4 +10,4 @@ The prompts will check to ensure all criteria are met prior to generation.
 ## Final password generated
 ![final screen](./assets/finalpw.jpg)
 
-The page is deployed 
+The page is deployed at https://agarraffa.github.io/AG-PW-Generator/
